@@ -1,4 +1,5 @@
 I am a red octocat...
 Though my color seems dangerous, i am not :)
-Well, i am becoming hot and slightly more dangerous ;-)
-You can play with me !!!
+Well, i am becoming hot and   
+ i am becoming a bit dangerous ;)
+You can play with me but be careful !!!
