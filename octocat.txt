@@ -1,3 +1,0 @@
-My name is octocat
-I live on github.
-Where do you live?
